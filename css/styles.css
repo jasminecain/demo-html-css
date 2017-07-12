@@ -42,23 +42,23 @@ main {
 }
 
 aside {
-  width: 30%;
   float: right;
+  width: 30%;
 }
 
 footer {
   background-color: #000000;
   color: #fff;
-  text-align: center;
   clear: both;
+  text-align: center;
 }
 
 .flex-container {
   display: flex;
   display: -webkit-flex;
-  width: 100%;
   background-color: seagreen;
   justify-content: center;
+  width: 100%;
   -webkit-justify-content: center;
 }
 
